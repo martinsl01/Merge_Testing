@@ -1,1 +1,5 @@
-text file in main branch to be merged with branch-a
+<<<<<<< HEAD
+text file merged
+=======
+text file merged
+>>>>>>> branch-a
