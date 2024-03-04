@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+text file merged
+=======
+text file merged
+>>>>>>> branch-a
